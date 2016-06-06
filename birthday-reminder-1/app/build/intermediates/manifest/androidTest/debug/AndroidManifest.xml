@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="no.hnilsen.android.bdayreminder.test">
+
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="16" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="no.hnilsen.android.bdayreminder"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for no.hnilsen.android.bdayreminder"/>
+</manifest>

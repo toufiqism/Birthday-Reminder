@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_gridtile_focused">#323232</color>
+    <color name="background_gridtile_normal">#ffffff</color>
+    <color name="background_gridtile_pressed">#6633b5e5</color>
+    <color name="background_gridview">#cccccc</color>
+    <color name="grey_date">#444444</color>
+    <color name="grey_name">#555555</color>
+    <dimen name="grid_column_width">200dp</dimen>
+    <dimen name="grid_tile_hspace">15dp</dimen>
+    <dimen name="grid_tile_vspace">15dp</dimen>
+    <dimen name="text_date">16dp</dimen>
+    <dimen name="text_name">20dp</dimen>
+    <string name="app_name">ContactBirthdayReminder</string>
+</resources>

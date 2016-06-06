@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/layout/grid_view.xml",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/layout/grid_view.xml"
+    },
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/layout/grid_tile.xml",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/layout/grid_tile.xml"
+    },
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/layout/main.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Oblivion/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.1/8f79e353ef77da6710e1f10d34fc3698eaaacbca/joda-time-2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f79e353ef77da6710e1f10d34fc3698eaaacbca">
+        <dex dex="/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/pre-dexed/debug/joda-time-2.1_381a91e62055c2670b9ee70a3fd7d9838db5f939.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_star_off_focused_holo_light.png",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/drawable-mdpi/btn_star_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_star_on_focused_holo_light.png",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/drawable-mdpi/btn_star_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_contact_picture.png",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/drawable-mdpi/ic_contact_picture.png"
+    },
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_star_on_normal_holo_light.png",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/drawable-mdpi/btn_star_on_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_star_off_normal_holo_light.png",
+        "source": "/Users/Oblivion/Desktop/Birthday-Reminder/birthday-reminder-1/app/src/main/res/drawable-mdpi/btn_star_off_normal_holo_light.png"
+    }
+]
